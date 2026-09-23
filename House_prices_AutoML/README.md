@@ -37,3 +37,11 @@ Download it from Kaggle:
 ```bash
 kaggle competitions download \
   -c house-prices-advanced-regression-techniques
+```
+
+Place `train.csv`, `test.csv` and `sample_submission.csv` in this
+directory before running the notebook.
+
+## Notebook
+
+[Open the analysis](./house_prices_automl.ipynb)
