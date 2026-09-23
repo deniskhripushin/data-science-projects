@@ -6,7 +6,7 @@ classical machine learning, NLP, computer vision and time-series forecasting.
 | Project | Task | Main Technologies |
 |---|---|---|
 | [Telecom Tariff Recommendation](./Classification_model_for_tariffs_telecom_operator) | Recommend a suitable mobile tariff using classification | pandas, scikit-learn |
-| [Toxic Comment Classification](./Classification_model_NLP_BERT) | Detect toxic comments for moderation | pandas, scikit-learn, NLTK |
+| [Toxic Comment Classification](./Toxic_comment_classification) | Detect toxic comments for moderation | pandas, scikit-learn, NLTK |
 | [Customer Age Estimation](./Customers_age_definition) | Estimate a customer's age from a photograph | TensorFlow, Keras, pandas |
 | [Flight Demand Analysis](./Flights_query_analysis) | Analyze passenger demand for flights to festival destinations | pandas, SciPy |
 | [Video Game Market Analysis](./Games_production_analysis) | Identify factors associated with successful games | pandas, SciPy, Matplotlib |
