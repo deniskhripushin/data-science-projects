@@ -19,6 +19,7 @@ classical machine learning, NLP, computer vision and time-series forecasting.
 | [Taxi Demand Forecasting](./Prediction_of_taxi_orders) | Forecast the number of taxi orders for the next hour | pandas, statsmodels, CatBoost, LightGBM, XGBoost |
 | [Borrower Reliability Analysis](./Research_of_borrowers_reliability) | Study how family characteristics relate to loan repayment | pandas |
 | [Telecom Tariff Revenue Analysis](./User_behavior_analysis) | Compare customer behavior and revenue between mobile tariffs | pandas, SciPy, Matplotlib, Seaborn |
+| [House Prices AutoML](./House_prices_AutoML) | Predict residential property prices for the Kaggle competition using automated machine learning | pandas, scikit-learn, LightAutoML |
 
 Each project directory contains its own analysis or model notebook. These
 projects were completed as educational case studies and are kept together as a
