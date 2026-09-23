@@ -21,6 +21,7 @@ classical machine learning, NLP, computer vision and time-series forecasting.
 | [Telecom Tariff Revenue Analysis](./User_behavior_analysis) | Compare customer behavior and revenue between mobile tariffs | pandas, SciPy, Matplotlib, Seaborn |
 | [House Prices AutoML](./House_prices_AutoML) | Predict residential property prices for the Kaggle competition using automated machine learning | pandas, scikit-learn, LightAutoML |
 | [Fake News Classification with RNNs](./Fake_news_RNN) | Classify news records using RNN, LSTM and GRU architectures | PyTorch, Word2Vec, scikit-learn |
+| [Email Spam Classification with BERT and GPT-2](./Email_spam_BERT_GPT2) | Classify emails as spam or ham using pretrained transformer embeddings | PyTorch, Transformers, BERT, GPT-2 |
 
 Each project directory contains its own analysis or model notebook. These
 projects were completed as educational case studies and are kept together as a
