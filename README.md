@@ -20,6 +20,7 @@ classical machine learning, NLP, computer vision and time-series forecasting.
 | [Borrower Reliability Analysis](./Research_of_borrowers_reliability) | Study how family characteristics relate to loan repayment | pandas |
 | [Telecom Tariff Revenue Analysis](./User_behavior_analysis) | Compare customer behavior and revenue between mobile tariffs | pandas, SciPy, Matplotlib, Seaborn |
 | [House Prices AutoML](./House_prices_AutoML) | Predict residential property prices for the Kaggle competition using automated machine learning | pandas, scikit-learn, LightAutoML |
+| [Fake News Classification with RNNs](./Fake_news_RNN) | Classify news records using RNN, LSTM and GRU architectures | PyTorch, Word2Vec, scikit-learn |
 
 Each project directory contains its own analysis or model notebook. These
 projects were completed as educational case studies and are kept together as a
