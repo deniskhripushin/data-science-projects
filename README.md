@@ -23,6 +23,7 @@ classical machine learning, NLP, computer vision and time-series forecasting.
 | [Fake News Classification with RNNs](./Fake_news_RNN) | Classify news records using RNN, LSTM and GRU architectures | PyTorch, Word2Vec, scikit-learn |
 | [Email Spam Classification with BERT and GPT-2](./Email_spam_BERT_GPT2) | Classify emails as spam or ham using pretrained transformer embeddings | PyTorch, Transformers, BERT, GPT-2 |
 | [Book Recommendation with ALS](./Book_recommendation_ALS) | Build and evaluate book recommendations using baselines, ALS and hybrid reranking | pandas, implicit, SciPy, scikit-learn |
+| [Store Demand Forecasting](./Store_demand_forecasting) | Forecast daily product demand and compare statistical time-series models | Prophet, AutoARIMA, SARIMAX, TBATS |
 
 Each project directory contains its own analysis or model notebook. These
 projects were completed as educational case studies and are kept together as a
