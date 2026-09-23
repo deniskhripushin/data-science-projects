@@ -14,7 +14,7 @@ classical machine learning, NLP, computer vision and time-series forecasting.
 | [Oil Region Profitability](./ML_model_for_maximizing_PnL) | Select a profitable drilling region and estimate risk with bootstrap | pandas, scikit-learn, SciPy |
 | [Real Estate Market Analysis](./Model_for_defenition_of_real_estate_price) | Analyze property prices and detect unusual listings | pandas, Matplotlib, Seaborn |
 | [Used Car Price Prediction](./Model_to_define_car_price) | Estimate used-car prices and compare regression models | scikit-learn, CatBoost, LightGBM |
-| [Bank Customer Churn](./Prediction_of_churn_rate_in_bank) | Predict bank customer churn under class imbalance | pandas, scikit-learn, Matplotlib |
+| [Bank Customer Churn](./Telecom_customer_churn) | Predict bank customer churn under class imbalance | pandas, scikit-learn, Matplotlib |
 | [Telecom Customer Churn](./Prediction_of_churn_rate_of%20clients) | Predict telecom customer churn | scikit-learn, CatBoost, LightGBM |
 | [Taxi Demand Forecasting](./Prediction_of_taxi_orders) | Forecast the number of taxi orders for the next hour | pandas, statsmodels, CatBoost, LightGBM, XGBoost |
 | [Borrower Reliability Analysis](./Research_of_borrowers_reliability) | Study how family characteristics relate to loan repayment | pandas |
