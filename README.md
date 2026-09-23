@@ -24,6 +24,7 @@ classical machine learning, NLP, computer vision and time-series forecasting.
 | [Email Spam Classification with BERT and GPT-2](./Email_spam_BERT_GPT2) | Classify emails as spam or ham using pretrained transformer embeddings | PyTorch, Transformers, BERT, GPT-2 |
 | [Book Recommendation with ALS](./Book_recommendation_ALS) | Build and evaluate book recommendations using baselines, ALS and hybrid reranking | pandas, implicit, SciPy, scikit-learn |
 | [Store Demand Forecasting](./Store_demand_forecasting) | Forecast daily product demand and compare statistical time-series models | Prophet, AutoARIMA, SARIMAX, TBATS |
+| [Multi-Segment Demand Forecasting](./Multi_segment_demand_forecasting) | Forecast daily sales across multiple store-item segments and compare forecasting models | ETNA, CatBoost, Prophet, AutoARIMA |
 
 Each project directory contains its own analysis or model notebook. These
 projects were completed as educational case studies and are kept together as a
