@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+catboost_info/
+HW_train.csv
+HW_test.csv
+*.csv
+*.pkl
+*.joblib
+*.cbm
