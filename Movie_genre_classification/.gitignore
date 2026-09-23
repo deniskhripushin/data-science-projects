@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+.cache/
+train.csv
+test.csv
+*.zip
+*.pt
+*.pth
+*.ckpt
+wandb/
