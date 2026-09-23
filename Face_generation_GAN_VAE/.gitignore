@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+lfw-deepfunneled/
+*.csv
+*.zip
+*.tar.gz
+*.h5
+*.keras
+*.pt
+*.pth
+*.ckpt
+checkpoints/
