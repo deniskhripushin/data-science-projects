@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+.cache/
+email_text.csv
+*.zip
+*.pt
+*.pth
+*.ckpt
