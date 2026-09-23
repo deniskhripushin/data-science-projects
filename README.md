@@ -25,6 +25,7 @@ classical machine learning, NLP, computer vision and time-series forecasting.
 | [Book Recommendation with ALS](./Book_recommendation_ALS) | Build and evaluate book recommendations using baselines, ALS and hybrid reranking | pandas, implicit, SciPy, scikit-learn |
 | [Store Demand Forecasting](./Store_demand_forecasting) | Forecast daily product demand and compare statistical time-series models | Prophet, AutoARIMA, SARIMAX, TBATS |
 | [Multi-Segment Demand Forecasting](./Multi_segment_demand_forecasting) | Forecast daily sales across multiple store-item segments and compare forecasting models | ETNA, CatBoost, Prophet, AutoARIMA |
+| [Movie Genre Classification](./Movie_genre_classification) | Classify movie genres from titles and descriptions using LSTM and DistilBERT | PyTorch, Transformers, DistilBERT, scikit-learn |
 
 Each project directory contains its own analysis or model notebook. These
 projects were completed as educational case studies and are kept together as a
