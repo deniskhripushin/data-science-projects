@@ -17,7 +17,6 @@ Predict residential property prices using tabular housing characteristics.
 - LightAutoML model training
 - Comparison of `TabularAutoML` and `TabularUtilizedAutoML`
 - Evaluation using RMSE
-- Generation of Kaggle predictions
 
 ## Technologies
 
