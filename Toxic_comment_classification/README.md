@@ -93,5 +93,5 @@ Possible improvements include stratified splitting, a complete scikit-learn pipe
 
 ## Repository Contents
 
-- [`Classification_model_NLP_BERT.ipynb`](./Classification_model_NLP_BERT.ipynb) — text preprocessing, model training and evaluation;
+- [toxic_comment_classification.ipynb](./toxic_comment_classification.ipynb) — text preprocessing, model training and evaluation;
 - `README.md` — project description and results.
