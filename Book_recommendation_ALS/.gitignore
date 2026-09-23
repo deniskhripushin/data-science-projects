@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+ratings.csv
+user_features.csv
+book_features.csv
+*.zip
+*.pkl
+*.npy
+*.npz
