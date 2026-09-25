@@ -148,3 +148,8 @@ The first run requires an internet connection to download the pretrained BERT an
 - BERT and GPT-2 are used only as frozen feature extractors.
 - The transformer models are not fine-tuned for spam classification.
 - Additional validation on the complete dataset is needed before production use.
+
+## Kaggle Notebook
+
+[View the executed notebook on Kaggle](https://www.kaggle.com/code/khripushin/spam-vs-ham-email-classification-with-bert-and-gpt)
+  
