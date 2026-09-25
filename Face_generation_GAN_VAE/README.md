@@ -308,3 +308,7 @@ A CUDA-compatible GPU is recommended, although the models can also be trained on
 - evaluate generation quality with FID or KID;
 - use WGAN-GP for more stable adversarial training;
 - compare results with a convolutional beta-VAE.
+
+## Kaggle Notebook
+
+[View the executed notebook on Kaggle](https://www.kaggle.com/code/khripushin/face-generation-with-dcgan-and-vae-on-lfw)
